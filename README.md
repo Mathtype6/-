@@ -1,4 +1,4 @@
-# AI-compettion
+# AI-competition
 # 2023 全球人工智能开发者先锋大会—AI 人才学习赛
 A 榜78/721
 
